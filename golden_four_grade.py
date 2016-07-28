@@ -16,7 +16,7 @@ def main():
         for filename in os.listdir("./"):
             is_csv = os.path.splitext(filename)[1] == ".csv"
             if is_csv and filename != args.outfile:
-                print "Found: " + filename
+                print("Found: " + filename)
                 args.infile = filename
                 break
 
@@ -39,7 +39,7 @@ def main():
     # Filter out any duplicates
     # Since we sorted by grade, we know the first occurrence of
     # (ID, SUBJECT, COURSE_NUMBER) is going to have the highest grade
-    print "Filtering out duplicates (keeping the highest grade)"
+    print("Filtering out duplicates (keeping the highest grade)")
     prev_row = rows[0]
     filtered_rows = [prev_row]
     for row in rows:
@@ -54,13 +54,13 @@ def main():
         prev_row = row
 
     # Create filtered csv file
-    print "Creating filtered RST Query for enrollments: " + args.outfile
+    print("Creating filtered RST Query for enrollments: " + args.outfile)
     csv_lines = [header_row] + filtered_rows
     with open(args.outfile, 'wb') as f:
         csv_writer = csv.writer(f)
         csv_writer.writerows(csv_lines)
 
-    print "DONE"
+    print("DONE")
 
 
 if __name__ == '__main__':
