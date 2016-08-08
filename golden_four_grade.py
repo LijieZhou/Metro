@@ -137,8 +137,6 @@ def main():
                     (course, row[GRADE])
                 )
 
-    for 
-
     # write_csv(args.outfile, [header_row] + rows)
 
 
