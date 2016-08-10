@@ -108,13 +108,13 @@ def initial_golden_four():
 
 def main():
     args = parse_args()
-    header_row, rows = read_cnv(args.infile, args.outfile)
+    raw_header_row, rows = read_cnv(args.infile, args.outfile)
 
-    ID = header_row.index("Id")
-    SUBJECT = header_row.index("SubjAreaCode")
-    COURSE_NUMBER = header_row.index("CrseNo")
-    GOLDEN_FOUR_CODE = header_row.index("CSU_GE")
-    GRADE = header_row.index("Grde_Code_Final")
+    ID = raw_header_row.index("Id")
+    SUBJECT = raw_header_row.index("SubjAreaCode")
+    COURSE_NUMBER = raw_header_row.index("CrseNo")
+    GOLDEN_FOUR_CODE = raw_header_row.index("CSU_GE")
+    GRADE = raw_header_row.index("Grde_Code_Final")
 
     print("Sorting rows by Id then SubjAreaCode then CrseNo "
           "then CSU_GE then Grde_Code_Final")
@@ -136,8 +136,43 @@ def main():
                 student_id2golden_four[row[ID]][code].add(
                     (course, row[GRADE])
                 )
+    # print student_id2golden_four
 
-    # write_csv(args.outfile, [header_row] + rows)
+
+    header_row = [
+        "CCSF_STUDENT_ID__C", "A1_ORAL_COMMUNICATION__C", "A1_COMPLETED__C",
+        "A2_WRITTEN_COMMUNICATION__C", "A2_COMPLETED__C", "A3_CRITICAL_THINKING__C",
+        "A3_COMPLETED__C", "B4_MATH_QR__C", "B4_COMPLETED__C",
+        "REGISTERED_COURSES_CCSF__C"
+    ]
+    ID = header_row.index("CCSF_STUDENT_ID__C")
+    A1_Course = header_row.index("A1_ORAL_COMMUNICATION__C")
+    A1_Completion = header_row.index("A1_COMPLETED__C")
+
+
+    csv_rows = []
+    for student_id, golden_four_dict in student_id2golden_four.iteritems():
+        new_row = [''] * len(header_row)
+        new_row[ID] = student_id
+        
+
+        # TODO: fill out the rest of the columns
+        
+        #convert the set into a list first so that you can access the odd index
+
+        l = list(golden_four_dict['A1'])
+        if not len(l) == 0: 
+            # l = list(golden_four_dict['A1'])
+            new_row.insert(1,l[0][0])
+            new_row.insert(2,l[0][1])
+  
+
+        csv_rows.append(new_row)
+
+
+    csv_rows.sort()
+
+    write_csv(args.outfile, [header_row] + csv_rows)
 
 
 if __name__ == '__main__':
