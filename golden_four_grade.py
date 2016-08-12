@@ -136,43 +136,52 @@ def main():
                 student_id2golden_four[row[ID]][code].add(
                     (course, row[GRADE])
                 )
-    # print student_id2golden_four
-
 
     header_row = [
         "CCSF_STUDENT_ID__C", "A1_ORAL_COMMUNICATION__C", "A1_COMPLETED__C",
-        "A2_WRITTEN_COMMUNICATION__C", "A2_COMPLETED__C", "A3_CRITICAL_THINKING__C",
-        "A3_COMPLETED__C", "B4_MATH_QR__C", "B4_COMPLETED__C",
-        "REGISTERED_COURSES_CCSF__C"
+        "A2_WRITTEN_COMMUNICATION__C", "A2_COMPLETED__C",
+        "A3_CRITICAL_THINKING__C", "A3_COMPLETED__C",
+        "B4_MATH_QR__C", "B4_COMPLETED__C",
     ]
     ID = header_row.index("CCSF_STUDENT_ID__C")
-    A1_Course = header_row.index("A1_ORAL_COMMUNICATION__C")
-    A1_Completion = header_row.index("A1_COMPLETED__C")
-
+    A1_COURSE = header_row.index("A1_ORAL_COMMUNICATION__C")
+    A1_COMPLETION = header_row.index("A1_COMPLETED__C")
+    A2_COURSE = header_row.index("A2_WRITTEN_COMMUNICATION__C")
+    A2_COMPLETION = header_row.index("A2_COMPLETED__C")
+    A3_COURSE = header_row.index("A3_CRITICAL_THINKING__C")
+    A3_COMPLETION = header_row.index("A3_COMPLETED__C")
+    B4_COURSE = header_row.index("B4_MATH_QR__C")
+    B4_COMPLETION = header_row.index("B4_COMPLETED__C")
 
     csv_rows = []
     for student_id, golden_four_dict in student_id2golden_four.iteritems():
         new_row = [''] * len(header_row)
         new_row[ID] = student_id
-        
-
-        # TODO: fill out the rest of the columns
-        
-        #convert the set into a list first so that you can access the odd index
-
-        l = list(golden_four_dict['A1'])
-        if not len(l) == 0: 
-            # l = list(golden_four_dict['A1'])
-            new_row.insert(1,l[0][0])
-            new_row.insert(2,l[0][1])
-  
-
+        new_row[A1_COURSE] = format_courses(golden_four_dict['A1'])
+        new_row[A1_COMPLETION] = is_complete(golden_four_dict['A1'])
+        new_row[A2_COURSE] = format_courses(golden_four_dict['A2'])
+        new_row[A2_COMPLETION] = is_complete(golden_four_dict['A2'])
+        new_row[A3_COURSE] = format_courses(golden_four_dict['A3'])
+        new_row[A3_COMPLETION] = is_complete(golden_four_dict['A3'])
+        new_row[B4_COURSE] = format_courses(golden_four_dict['B4'])
+        new_row[B4_COMPLETION] = is_complete(golden_four_dict['B4'])
         csv_rows.append(new_row)
-
 
     csv_rows.sort()
 
     write_csv(args.outfile, [header_row] + csv_rows)
+
+
+def format_courses(course_tuples):
+    formatted_courses = map(" ".join, course_tuples)
+    return ",".join(formatted_courses)
+
+
+def is_complete(course_tuples):
+    PASSING_GRADES = ["A", "B", "C"]
+    # extract the grades from each course tuple
+    grades = map(operator.itemgetter(1), course_tuples)
+    return any([grade in grades for grade in PASSING_GRADES])
 
 
 if __name__ == '__main__':
