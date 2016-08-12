@@ -1,233 +1,233 @@
-CCSF_STUDENT_ID__C,A1_ORAL_COMMUNICATION__C,A1_COMPLETED__C,A2_WRITTEN_COMMUNICATION__C,A2_COMPLETED__C,A3_CRITICAL_THINKING__C,A3_COMPLETED__C,B4_MATH_QR__C,B4_COMPLETED__C,REGISTERED_COURSES_CCSF__C
-@00042620,,False,ENGL 1A B,True,,False,"MATH 90 C,ANAT 25 C",True,
-@00055807,,False,CDEV 108B A,True,ENGL 1B B,True,,False,
-@00056356,,False,,False,,False,"MATH 80 C,MATH 90 B,MATH 100A B,MATH 75 B",True,
-@00057024,,False,,False,"ENGL 1B C,PHIL 4 B",True,,False,
-@00110173,,False,CDEV 108B B,True,,False,,False,
-@00111468,,False,,False,ET 108A A,True,,False,
-@00116927,,False,,False,ESL 170 B,True,,False,
-@00120894,,False,ENGL 1A A,True,,False,CDEV 53 B,True,
-@00126464,,False,,False,ENGL 1B B,True,,False,
-@00136592,,False,,False,ESL 170 B,True,,False,
-@00145140,,False,,False,PHIL 4 C,True,,False,
-@00149838,,False,,False,,False,BIO 9 B,True,
-@00156226,,False,,False,ENGL 1B B,True,,False,
-@00173011,,False,ENGL 1A B,True,ENGL 91 B,True,,False,
-@00178625,,False,,False,ENGL 1B B,True,,False,
-@00193426,,False,,False,ENGL 1B B,True,,False,
-@00196972,,False,ENGL 1A C,True,ENGL 1A C,True,MATH 110A C,True,
-@00197170,,False,,False,,False,MATH 40 B,True,
-@00204013,HLTH 25 B,True,,False,,False,,False,
-@00212412,,False,,False,ENGL 1B A,True,"MATH 80 A,MATH 110A A",True,
-@00214613,,False,ADMJ 57 C,True,,False,,False,
-@00215829,SPCH 1A B,True,ENGL 1C B,True,ENGL 1C B,True,BIO 9 B,True,
-@00215893,,False,,False,,False,PSYC 5 C,True,
-@00216496,SPCH 1A B,True,,False,,False,,False,
-@00218186,,False,,False,ENGL 1B B,True,,False,
-@00223910,,False,,False,ENGL 1B C,True,,False,
-@00229892,,False,,False,,False,HLTH 14 A,True,
-@00232708,,False,,False,,False,MATH 80 C,True,
-@00236209,,False,,False,,False,"MATH 100A C,PSYC 5 C",True,
-@00236638,,False,,False,,False,"CDEV 97 A,MATH 80 B",True,
-@00237896,,False,,False,,False,MATH 80 C,True,
-@00238970,,False,,False,,False,MATH 80 C,True,
-@00238976,,False,LALS 1 B,True,,False,MATH 80 B,True,
-@00243558,,False,ENGL 1A C,True,,False,,False,
-@00243856,,False,ENGL 1A C,True,MUS 6A C,True,MATH 80 C,True,
-@00248504,,False,,False,,False,MUS 25 A,True,
-@00250257,,False,,False,,False,MATH 80 C,True,
-@00253892,,False,ENGL 1A C,True,ENGL 1B B,True,,False,
-@00257937,,False,MUS 25 A,True,,False,,False,
-@00260191,SPCH 1A B,True,,False,,False,,False,
-@00261129,,False,,False,,False,MATH 80 C,True,
-@00261181,,False,MUS 9B A,True,,False,,False,
-@00264745,,False,,False,,False,PSYC 5 B,True,
-@00264749,,False,MUS 9A A,True,ENGL 1B C,True,,False,
-@00264759,,False,F SC 105A B,True,,False,PSYC 5 C,True,
-@00266425,,False,,False,,False,MATH 80 B,True,
-@00273829,,False,ENGL 1A B,True,,False,,False,
-@00274270,,False,ENGL 1A A,True,,False,,False,
-@00274953,,False,,False,,False,MATH 80 C,True,
-@00276089,,False,,False,ENGL 1B C,True,MATH 80 C,True,
-C73910837,SPCH 20 A,True,,False,,False,,False,
-D01084946,,False,ENGL 1A B,True,ENGL 1C B,True,,False,
-W00003866,SPCH 1A B,True,ENGL 1A B,True,ENGL 1B C,True,,False,
-W00013236,SPCH 20 C,True,,False,,False,,False,
-W00028846,,False,,False,ENGL 1B B,True,,False,
-W00030371,,False,,False,ENGL 1B C,True,PSYC 5 B,True,
-W00034408,,False,CDEV 74 A,True,,False,ASTR 14 B,True,
-W00040509,,False,,False,ASAM 8 A,True,,False,
-W00054462,,False,ENGL 1A C,True,ENGL 1B B,True,MATH 75 B,True,
-W00064789,,False,ENGL 96 C,True,,False,,False,
-W00067911,,False,"ENGL 1A C,ENGL 96 C",True,,False,,False,
-W00075912,,False,ENGL 1A C,True,,False,,False,
-W00078623,,False,CDEV 108B A,True,,False,,False,
-W00084779,,False,,False,ENGL 1B A,True,ANAT 14 B,True,
-W00086040,,False,CDEV 108B A,True,ENGL 1B B,True,POLS 1 B,True,
-W00093404,,False,ENGL 1A C,True,"ENGL 1B B,PHIL 2 C",True,,False,
-W00099246,,False,ARCH 29A B,True,,False,BIO 9 A,True,
-W00114088,,False,,False,,False,MUS 25 B,True,
-W00116267,,False,,False,ASAM 8 A,True,,False,
-W00125771,ENGL 26 A,True,,False,ENGL 1B C,True,"MATH 75 C,CDEV 53 B",True,
-W00126648,,False,,False,,False,WOMN 25 C,True,
-W00127177,,False,,False,ENGL 1C C,True,,False,
-W00128862,,False,,False,ENGL 1B B,True,,False,
-W00129605,,False,ENGL 1A A,True,,False,,False,
-W00129677,,False,,False,ESL 56 A,True,,False,
-W00142018,,False,"MABS 101 A,ENGL 1A C",True,ENGL 1C C,True,,False,
-W00146630,,False,ENGL 1A B,True,ENGL 1B B,True,,False,
-W00149088,,False,,False,,False,"HLTH 14 A,HLTH 13 A,L A 51 C",True,
-W00149671,,False,ENGL 1A A,True,,False,,False,
-W00150367,,False,,False,,False,HLTH 13 A,True,
-W00158937,,False,ENGL 1A C,True,,False,,False,
-W00159049,,False,,False,ENGL 1B A,True,,False,
-W00172216,,False,"CDEV 108B A,CDEV 74 A",True,ENGL 1B B,True,,False,
-W00182238,ART 105 C,True,,False,,False,,False,
-W00183332,,False,"ART 180A B,LERN 62 B",True,,False,CDEV 97 A,True,
-W00191275,ART 105 C,True,,False,,False,,False,
-W00191413,,False,ENGL 1A A,True,ENGL 1B B,True,,False,
-W00212941,,False,CDEV 74 A,True,"ENGL 1B B,ESL 42 A",True,,False,
-W00216084,,False,,False,,False,CDEV 53 B,True,
-W00216856,,False,,False,MUS 9A C,True,LERN 50 A,True,
-W00221780,,False,ENGL 1A C,True,,False,HLTH 14 B,True,
-W00222972,SPCH 1A P,False,,False,"BIO 24 B,ENGL 1C C",True,HLTH 12 A,True,
-W00226280,,False,MATH 840 C,True,ENGL 1C B,True,CDEV 53 B,True,
-W00226770,,False,CDEV 108B A,True,ENGL 1B C,True,HLTH 14 C,True,
-W00236850,,False,"CDEV 74 B,ENGL 1A C",True,ENGL 1B C,True,,False,
-W00248719,,False,"ENGL 1A C,ENGL 93 C",True,ENGL 1B A,True,,False,
-W00252291,,False,CDEV 108B B,True,,False,,False,
-W00258485,,False,,False,,False,PSYC 5 C,True,
-W00293683,,False,ENGL 1A C,True,,False,MUS 25 A,True,
-W00329697,,False,ENGL 1A B,True,,False,,False,
-W00355771,,False,,False,,False,HLTH 100 B,True,
-W00393857,,False,,False,,False,CDEV 97 A,True,
-W00508565,SPCH 20 C,True,,False,ENGL 1C B,True,,False,
-W00623846,,False,CDEV 108B B,True,"ENGL 1B C,IDST 17 B",True,"MUS 25 A,HLTH 25 B",True,
-W00635427,,False,,False,,False,MATH 80 B,True,
-W00638624,,False,ENGL 1A A,True,,False,"MATH 110A B,MATH 110C C",True,
-W00650849,,False,CDEV 65 A,True,,False,,False,
-W00654010,SPCH 20 B,True,,False,ENGL 1B B,True,DENT 55B C,True,
-W00660183,,False,,False,,False,CDEV 53 B,True,
-W00687144,,False,ENGL 1A B,True,ENGL 1B C,True,BSMA G CR,False,
-W10003299,,False,ENGL 1A C,True,,False,CDEV 97 C,True,
-W10286411,,False,,False,SMBS 135 B,True,,False,
-W10295481,PSYC 1 C,True,,False,,False,,False,
-W10297722,,False,,False,ENGL 1B C,True,PSYC 5 C,True,
-W10302632,SPCH 1A A,True,MUS 25 B,True,,False,LALS 5 A,True,
-W10310375,,False,HIST 1 B,True,,False,,False,
-W10311135,HLTH 33 B,True,,False,,False,MATH 80 C,True,
-W10320998,,False,,False,ENGL 1B B,True,AFAM 55 B,True,
-W10331172,,False,ENGL 1A B,True,,False,,False,
-W10336246,,False,ENGL 1A B,True,ENGL 1B A,True,,False,
-W10340451,,False,ENGL 1C C,True,"ENGL 1B A,ENGL 1C C",True,PSYC 5 B,True,
-W10340905,,False,,False,,False,MATH 110A C,True,
-W10341300,,False,,False,ENGL 1B B,True,,False,
-W10341450,SPCH 1A B,True,ENGL 1A C,True,ENGL 1B A,True,"MATH 120 A,MATH 110B B,MATH 125 B",True,
-W10341704,,False,,False,ENGL 1B B,True,,False,
-W10342114,,False,,False,PHIL 4 B,True,,False,
-W10342238,,False,,False,ENGL 1B B,True,,False,
-W10342323,,False,,False,,False,"MATH 90 C,MATH 80 B",True,
-W10342353,,False,,False,,False,"MATH 80 C,MATH 90 C",True,
-W10342548,,False,,False,,False,PSYC 5 B,True,
-W10342858,,False,ENGL 1A B,True,,False,,False,
-W10343314,,False,ENGL 1A B,True,,False,,False,
-W10343394,,False,,False,ENGL 1C B,True,,False,
-W10343541,,False,ENGL 1A C,True,ENGL 96 C,True,,False,
-W10344149,,False,ENGL 1A B,True,ENGL 1B B,True,"MATH 110A A,MATH 125 B",True,
-W10344539,,False,ENGL 93 C,True,ENGL 1C C,True,,False,
-W10353638,,False,,False,,False,MATH 90 B,True,
-W10359099,SPCH 1A B,True,,False,ENGL 1B C,True,POLS 1 C,True,
-W10360204,SPCH 1A B,True,ENGL 1A C,True,,False,,False,
-W10361461,SPCH 20 A,True,,False,,False,,False,
-W10364959,,False,ENGL 1A C,True,,False,,False,
-W10369490,,False,,False,,False,MATH 100A B,True,
-W10369733,,False,ENGL 1A C,True,ENGL 1A C,True,,False,
-W10370034,,False,,False,ENGL 1B B,True,MATH 80 A,True,
-W10378084,,False,ENGL 1A C,True,PHIL 2 C,True,,False,
-W10381002,SPCH 1A B,True,,False,ENGL 1B C,True,,False,
-W10384312,,False,MUS 24 A,True,,False,,False,
-W10391329,,False,ENGL 1A A,True,,False,,False,
-W10394206,,False,,False,,False,MATH 80 B,True,
-W10394685,,False,,False,,False,MATH 80 C,True,
-W10395761,,False,,False,,False,MATH 80 C,True,
-W10396685,,False,,False,,False,MATH 80 C,True,
-W10397173,,False,,False,,False,MATH 80 B,True,
-W10400084,,False,,False,,False,ECON 5 B,True,
-W10400267,PE 251A A,True,,False,,False,,False,
-W10400580,,False,MUS 21 A,True,ENGL 1C C,True,,False,
-W10401068,,False,,False,,False,MATH 80 C,True,
-W10401251,,False,,False,ENGL 1C C,True,,False,
-W10401934,,False,,False,MUS 9A C,True,,False,
-W10402066,,False,,False,,False,MATH 90 C,True,
-W10403029,,False,LALS 1 C,True,,False,,False,
-W10403043,,False,,False,,False,MATH 80 C,True,
-W10403526,,False,,False,,False,MATH 75 C,True,
-W10403929,,False,,False,,False,MATH 80 C,True,
-W10404109,SPCH 1A B,True,,False,,False,,False,
-W10405455,,False,,False,,False,"MATH 80 C,MUS 25 A",True,
-W10406319,,False,,False,,False,MATH 100B A,True,
-W10406535,,False,MUS 9A A,True,,False,,False,
-W10408660,,False,,False,ENGL 1C B,True,MATH 80 C,True,
-W10410272,SPCH 4 B,True,,False,,False,,False,
-W10410512,,False,,False,ENGL 1B C,True,"MATH 80 C,MATH 75 C",True,
-W10412472,,False,ENGL 1A C,True,,False,MATH 80 C,True,
-W10417275,,False,,False,,False,"MATH 80 C,POLS 1 C",True,
-W10424297,SPCH 1A B,True,,False,,False,,False,
-W10433195,,False,,False,,False,MATH 80 C,True,
-W10434539,,False,,False,,False,MATH 80 B,True,
-W10434671,,False,MUS 25 A,True,,False,,False,
-W10434818,,False,,False,,False,MATH 80 B,True,
-W10434980,,False,ENGL 1A B,True,,False,MATH 90 C,True,
-W10435486,,False,,False,,False,MATH 80 C,True,
-W10435506,,False,,False,,False,MATH 80 C,True,
-W10436788,,False,ENGL 1A C,True,,False,"PSYC 5 C,ENGL 96 C",True,
-W10438386,,False,,False,PHIL 2 C,True,,False,
-W10441469,,False,,False,,False,CNIT 100 B,True,
-W10442509,,False,ENGL 1C C,True,ENGL 1C C,True,MATH 80 C,True,
-W10444478,,False,,False,,False,"MATH 80 B,BIO 9 C",True,
-W10445978,,False,,False,,False,MATH 80 C,True,
-W10447192,,False,,False,,False,MATH 80 C,True,
-W10448414,,False,ENGL 1A A,True,,False,MATH 80 B,True,
-W10448685,,False,ENGL 1A A,True,,False,,False,
-W10456864,,False,,False,MUS 9A A,True,,False,
-W10463990,,False,,False,ENGL 1B B,True,,False,
-W10469396,,False,ENGL 1A B,True,,False,,False,
-W10470774,SPCH 4 B,True,,False,PHIL 4 C,True,"MATH 80 C,SPCH 4 B",True,
-W10473328,,False,,False,,False,MATH 80 C,True,
-W10473421,,False,,False,ENGL 1B C,True,MATH 80 C,True,
-W10474314,,False,ENGL 1A B,True,,False,,False,
-W10474874,,False,,False,,False,MATH 80 C,True,
-W10474889,,False,,False,,False,MATH 80 C,True,
-W10475765,,False,,False,ART 130A B,True,,False,
-W10476411,,False,,False,,False,BIO 9 C,True,
-W10479650,SPCH 20 C,True,,False,,False,,False,
-W10480937,,False,,False,,False,MATH 80 C,True,
-W10490622,,False,ENGL 1A B,True,ENGL 1B B,True,,False,
-W10515211,,False,ENGL 1A A,True,,False,,False,
-W10517531,,False,,False,,False,MATH 90 A,True,
-W10529896,,False,,False,PHIL 2 A,True,,False,
-W10538157,,False,ENGL 1A A,True,,False,,False,
-W77015879,,False,,False,,False,LERN 50 B,True,
-W77021888,,False,,False,,False,PSYC 5 A,True,
-W77030160,,False,,False,,False,MATH E1 P,False,
-W77039151,,False,,False,,False,MATH 80 C,True,
-W77053565,,False,ENGL 1A C,True,,False,MATH 100A B,True,
-W99062993,,False,,False,ENGL 1B C,True,MATH 90 C,True,
-W99107556,,False,ENGL 1A B,True,,False,,False,
-W99139544,,False,MUS 6A C,True,,False,,False,
-W99141901,,False,CDEV 108B A,True,,False,,False,
-W99147891,,False,,False,,False,"HLTH 64 C,PSYC 5 C",True,
-W99157633,,False,ENGL 1A B,True,PHIL 4 C,True,,False,
-W99174346,,False,,False,"ENGL 1B A,IDST 17 A",True,PSYC 5 B,True,
-W99176332,,False,,False,,False,PSYC 5 C,True,
-W99241919,,False,,False,,False,BIO 9 A,True,
-W99259430,,False,ENGL 1A C,True,ENGL 1B C,True,,False,
-W99259861,,False,ENGL 1A C,True,,False,MATH 70 A,True,
-W99260878,,False,,False,ENGL 1B A,True,,False,
-W99262587,,False,,False,"ENGL 1C B,ET 108A B",True,HIST 21 B,True,
-W99265031,SPCH 1A A,True,,False,,False,,False,
-W99267906,SPCH 1A A,True,,False,,False,,False,
-W99267974,,False,,False,ENGL 1B A,True,HLTH 25 A,True,
-W99281459,SPCH 1A B,True,,False,,False,,False,
-W99283581,,False,,False,ENGL 1B B,True,MATH 80 C,True,
-W99288894,,False,,False,,False,"BIO 9 B,HLTH 25 B",True,
+CCSF_STUDENT_ID__C,A1_ORAL_COMMUNICATION__C,A1_COMPLETED__C,A2_WRITTEN_COMMUNICATION__C,A2_COMPLETED__C,A3_CRITICAL_THINKING__C,A3_COMPLETED__C,B4_MATH_QR__C,B4_COMPLETED__C
+@00042620,,False,ENGL 1A B,True,,False,"MATH 90 C,ANAT 25 C",True
+@00055807,,False,CDEV 108B A,True,ENGL 1B B,True,,False
+@00056356,,False,,False,,False,"MATH 80 C,MATH 90 B,MATH 100A B,MATH 75 B",True
+@00057024,,False,,False,"ENGL 1B C,PHIL 4 B",True,,False
+@00110173,,False,CDEV 108B B,True,,False,,False
+@00111468,,False,,False,ET 108A A,True,,False
+@00116927,,False,,False,ESL 170 B,True,,False
+@00120894,,False,ENGL 1A A,True,,False,CDEV 53 B,True
+@00126464,,False,,False,ENGL 1B B,True,,False
+@00136592,,False,,False,ESL 170 B,True,,False
+@00145140,,False,,False,PHIL 4 C,True,,False
+@00149838,,False,,False,,False,BIO 9 B,True
+@00156226,,False,,False,ENGL 1B B,True,,False
+@00173011,,False,ENGL 1A B,True,ENGL 91 B,True,,False
+@00178625,,False,,False,ENGL 1B B,True,,False
+@00193426,,False,,False,ENGL 1B B,True,,False
+@00196972,,False,ENGL 1A C,True,ENGL 1A C,True,MATH 110A C,True
+@00197170,,False,,False,,False,MATH 40 B,True
+@00204013,HLTH 25 B,True,,False,,False,,False
+@00212412,,False,,False,ENGL 1B A,True,"MATH 80 A,MATH 110A A",True
+@00214613,,False,ADMJ 57 C,True,,False,,False
+@00215829,SPCH 1A B,True,ENGL 1C B,True,ENGL 1C B,True,BIO 9 B,True
+@00215893,,False,,False,,False,PSYC 5 C,True
+@00216496,SPCH 1A B,True,,False,,False,,False
+@00218186,,False,,False,ENGL 1B B,True,,False
+@00223910,,False,,False,ENGL 1B C,True,,False
+@00229892,,False,,False,,False,HLTH 14 A,True
+@00232708,,False,,False,,False,MATH 80 C,True
+@00236209,,False,,False,,False,"MATH 100A C,PSYC 5 C",True
+@00236638,,False,,False,,False,"CDEV 97 A,MATH 80 B",True
+@00237896,,False,,False,,False,MATH 80 C,True
+@00238970,,False,,False,,False,MATH 80 C,True
+@00238976,,False,LALS 1 B,True,,False,MATH 80 B,True
+@00243558,,False,ENGL 1A C,True,,False,,False
+@00243856,,False,ENGL 1A C,True,MUS 6A C,True,MATH 80 C,True
+@00248504,,False,,False,,False,MUS 25 A,True
+@00250257,,False,,False,,False,MATH 80 C,True
+@00253892,,False,ENGL 1A C,True,ENGL 1B B,True,,False
+@00257937,,False,MUS 25 A,True,,False,,False
+@00260191,SPCH 1A B,True,,False,,False,,False
+@00261129,,False,,False,,False,MATH 80 C,True
+@00261181,,False,MUS 9B A,True,,False,,False
+@00264745,,False,,False,,False,PSYC 5 B,True
+@00264749,,False,MUS 9A A,True,ENGL 1B C,True,,False
+@00264759,,False,F SC 105A B,True,,False,PSYC 5 C,True
+@00266425,,False,,False,,False,MATH 80 B,True
+@00273829,,False,ENGL 1A B,True,,False,,False
+@00274270,,False,ENGL 1A A,True,,False,,False
+@00274953,,False,,False,,False,MATH 80 C,True
+@00276089,,False,,False,ENGL 1B C,True,MATH 80 C,True
+C73910837,SPCH 20 A,True,,False,,False,,False
+D01084946,,False,ENGL 1A B,True,ENGL 1C B,True,,False
+W00003866,SPCH 1A B,True,ENGL 1A B,True,ENGL 1B C,True,,False
+W00013236,SPCH 20 C,True,,False,,False,,False
+W00028846,,False,,False,ENGL 1B B,True,,False
+W00030371,,False,,False,ENGL 1B C,True,PSYC 5 B,True
+W00034408,,False,CDEV 74 A,True,,False,ASTR 14 B,True
+W00040509,,False,,False,ASAM 8 A,True,,False
+W00054462,,False,ENGL 1A C,True,ENGL 1B B,True,MATH 75 B,True
+W00064789,,False,ENGL 96 C,True,,False,,False
+W00067911,,False,"ENGL 1A C,ENGL 96 C",True,,False,,False
+W00075912,,False,ENGL 1A C,True,,False,,False
+W00078623,,False,CDEV 108B A,True,,False,,False
+W00084779,,False,,False,ENGL 1B A,True,ANAT 14 B,True
+W00086040,,False,CDEV 108B A,True,ENGL 1B B,True,POLS 1 B,True
+W00093404,,False,ENGL 1A C,True,"ENGL 1B B,PHIL 2 C",True,,False
+W00099246,,False,ARCH 29A B,True,,False,BIO 9 A,True
+W00114088,,False,,False,,False,MUS 25 B,True
+W00116267,,False,,False,ASAM 8 A,True,,False
+W00125771,ENGL 26 A,True,,False,ENGL 1B C,True,"MATH 75 C,CDEV 53 B",True
+W00126648,,False,,False,,False,WOMN 25 C,True
+W00127177,,False,,False,ENGL 1C C,True,,False
+W00128862,,False,,False,ENGL 1B B,True,,False
+W00129605,,False,ENGL 1A A,True,,False,,False
+W00129677,,False,,False,ESL 56 A,True,,False
+W00142018,,False,"MABS 101 A,ENGL 1A C",True,ENGL 1C C,True,,False
+W00146630,,False,ENGL 1A B,True,ENGL 1B B,True,,False
+W00149088,,False,,False,,False,"HLTH 14 A,HLTH 13 A,L A 51 C",True
+W00149671,,False,ENGL 1A A,True,,False,,False
+W00150367,,False,,False,,False,HLTH 13 A,True
+W00158937,,False,ENGL 1A C,True,,False,,False
+W00159049,,False,,False,ENGL 1B A,True,,False
+W00172216,,False,"CDEV 108B A,CDEV 74 A",True,ENGL 1B B,True,,False
+W00182238,ART 105 C,True,,False,,False,,False
+W00183332,,False,"ART 180A B,LERN 62 B",True,,False,CDEV 97 A,True
+W00191275,ART 105 C,True,,False,,False,,False
+W00191413,,False,ENGL 1A A,True,ENGL 1B B,True,,False
+W00212941,,False,CDEV 74 A,True,"ENGL 1B B,ESL 42 A",True,,False
+W00216084,,False,,False,,False,CDEV 53 B,True
+W00216856,,False,,False,MUS 9A C,True,LERN 50 A,True
+W00221780,,False,ENGL 1A C,True,,False,HLTH 14 B,True
+W00222972,SPCH 1A P,False,,False,"BIO 24 B,ENGL 1C C",True,HLTH 12 A,True
+W00226280,,False,MATH 840 C,True,ENGL 1C B,True,CDEV 53 B,True
+W00226770,,False,CDEV 108B A,True,ENGL 1B C,True,HLTH 14 C,True
+W00236850,,False,"CDEV 74 B,ENGL 1A C",True,ENGL 1B C,True,,False
+W00248719,,False,"ENGL 1A C,ENGL 93 C",True,ENGL 1B A,True,,False
+W00252291,,False,CDEV 108B B,True,,False,,False
+W00258485,,False,,False,,False,PSYC 5 C,True
+W00293683,,False,ENGL 1A C,True,,False,MUS 25 A,True
+W00329697,,False,ENGL 1A B,True,,False,,False
+W00355771,,False,,False,,False,HLTH 100 B,True
+W00393857,,False,,False,,False,CDEV 97 A,True
+W00508565,SPCH 20 C,True,,False,ENGL 1C B,True,,False
+W00623846,,False,CDEV 108B B,True,"ENGL 1B C,IDST 17 B",True,"MUS 25 A,HLTH 25 B",True
+W00635427,,False,,False,,False,MATH 80 B,True
+W00638624,,False,ENGL 1A A,True,,False,"MATH 110A B,MATH 110C C",True
+W00650849,,False,CDEV 65 A,True,,False,,False
+W00654010,SPCH 20 B,True,,False,ENGL 1B B,True,DENT 55B C,True
+W00660183,,False,,False,,False,CDEV 53 B,True
+W00687144,,False,ENGL 1A B,True,ENGL 1B C,True,BSMA G CR,False
+W10003299,,False,ENGL 1A C,True,,False,CDEV 97 C,True
+W10286411,,False,,False,SMBS 135 B,True,,False
+W10295481,PSYC 1 C,True,,False,,False,,False
+W10297722,,False,,False,ENGL 1B C,True,PSYC 5 C,True
+W10302632,SPCH 1A A,True,MUS 25 B,True,,False,LALS 5 A,True
+W10310375,,False,HIST 1 B,True,,False,,False
+W10311135,HLTH 33 B,True,,False,,False,MATH 80 C,True
+W10320998,,False,,False,ENGL 1B B,True,AFAM 55 B,True
+W10331172,,False,ENGL 1A B,True,,False,,False
+W10336246,,False,ENGL 1A B,True,ENGL 1B A,True,,False
+W10340451,,False,ENGL 1C C,True,"ENGL 1B A,ENGL 1C C",True,PSYC 5 B,True
+W10340905,,False,,False,,False,MATH 110A C,True
+W10341300,,False,,False,ENGL 1B B,True,,False
+W10341450,SPCH 1A B,True,ENGL 1A C,True,ENGL 1B A,True,"MATH 120 A,MATH 110B B,MATH 125 B",True
+W10341704,,False,,False,ENGL 1B B,True,,False
+W10342114,,False,,False,PHIL 4 B,True,,False
+W10342238,,False,,False,ENGL 1B B,True,,False
+W10342323,,False,,False,,False,"MATH 90 C,MATH 80 B",True
+W10342353,,False,,False,,False,"MATH 80 C,MATH 90 C",True
+W10342548,,False,,False,,False,PSYC 5 B,True
+W10342858,,False,ENGL 1A B,True,,False,,False
+W10343314,,False,ENGL 1A B,True,,False,,False
+W10343394,,False,,False,ENGL 1C B,True,,False
+W10343541,,False,ENGL 1A C,True,ENGL 96 C,True,,False
+W10344149,,False,ENGL 1A B,True,ENGL 1B B,True,"MATH 110A A,MATH 125 B",True
+W10344539,,False,ENGL 93 C,True,ENGL 1C C,True,,False
+W10353638,,False,,False,,False,MATH 90 B,True
+W10359099,SPCH 1A B,True,,False,ENGL 1B C,True,POLS 1 C,True
+W10360204,SPCH 1A B,True,ENGL 1A C,True,,False,,False
+W10361461,SPCH 20 A,True,,False,,False,,False
+W10364959,,False,ENGL 1A C,True,,False,,False
+W10369490,,False,,False,,False,MATH 100A B,True
+W10369733,,False,ENGL 1A C,True,ENGL 1A C,True,,False
+W10370034,,False,,False,ENGL 1B B,True,MATH 80 A,True
+W10378084,,False,ENGL 1A C,True,PHIL 2 C,True,,False
+W10381002,SPCH 1A B,True,,False,ENGL 1B C,True,,False
+W10384312,,False,MUS 24 A,True,,False,,False
+W10391329,,False,ENGL 1A A,True,,False,,False
+W10394206,,False,,False,,False,MATH 80 B,True
+W10394685,,False,,False,,False,MATH 80 C,True
+W10395761,,False,,False,,False,MATH 80 C,True
+W10396685,,False,,False,,False,MATH 80 C,True
+W10397173,,False,,False,,False,MATH 80 B,True
+W10400084,,False,,False,,False,ECON 5 B,True
+W10400267,PE 251A A,True,,False,,False,,False
+W10400580,,False,MUS 21 A,True,ENGL 1C C,True,,False
+W10401068,,False,,False,,False,MATH 80 C,True
+W10401251,,False,,False,ENGL 1C C,True,,False
+W10401934,,False,,False,MUS 9A C,True,,False
+W10402066,,False,,False,,False,MATH 90 C,True
+W10403029,,False,LALS 1 C,True,,False,,False
+W10403043,,False,,False,,False,MATH 80 C,True
+W10403526,,False,,False,,False,MATH 75 C,True
+W10403929,,False,,False,,False,MATH 80 C,True
+W10404109,SPCH 1A B,True,,False,,False,,False
+W10405455,,False,,False,,False,"MATH 80 C,MUS 25 A",True
+W10406319,,False,,False,,False,MATH 100B A,True
+W10406535,,False,MUS 9A A,True,,False,,False
+W10408660,,False,,False,ENGL 1C B,True,MATH 80 C,True
+W10410272,SPCH 4 B,True,,False,,False,,False
+W10410512,,False,,False,ENGL 1B C,True,"MATH 80 C,MATH 75 C",True
+W10412472,,False,ENGL 1A C,True,,False,MATH 80 C,True
+W10417275,,False,,False,,False,"MATH 80 C,POLS 1 C",True
+W10424297,SPCH 1A B,True,,False,,False,,False
+W10433195,,False,,False,,False,MATH 80 C,True
+W10434539,,False,,False,,False,MATH 80 B,True
+W10434671,,False,MUS 25 A,True,,False,,False
+W10434818,,False,,False,,False,MATH 80 B,True
+W10434980,,False,ENGL 1A B,True,,False,MATH 90 C,True
+W10435486,,False,,False,,False,MATH 80 C,True
+W10435506,,False,,False,,False,MATH 80 C,True
+W10436788,,False,ENGL 1A C,True,,False,"PSYC 5 C,ENGL 96 C",True
+W10438386,,False,,False,PHIL 2 C,True,,False
+W10441469,,False,,False,,False,CNIT 100 B,True
+W10442509,,False,ENGL 1C C,True,ENGL 1C C,True,MATH 80 C,True
+W10444478,,False,,False,,False,"MATH 80 B,BIO 9 C",True
+W10445978,,False,,False,,False,MATH 80 C,True
+W10447192,,False,,False,,False,MATH 80 C,True
+W10448414,,False,ENGL 1A A,True,,False,MATH 80 B,True
+W10448685,,False,ENGL 1A A,True,,False,,False
+W10456864,,False,,False,MUS 9A A,True,,False
+W10463990,,False,,False,ENGL 1B B,True,,False
+W10469396,,False,ENGL 1A B,True,,False,,False
+W10470774,SPCH 4 B,True,,False,PHIL 4 C,True,"MATH 80 C,SPCH 4 B",True
+W10473328,,False,,False,,False,MATH 80 C,True
+W10473421,,False,,False,ENGL 1B C,True,MATH 80 C,True
+W10474314,,False,ENGL 1A B,True,,False,,False
+W10474874,,False,,False,,False,MATH 80 C,True
+W10474889,,False,,False,,False,MATH 80 C,True
+W10475765,,False,,False,ART 130A B,True,,False
+W10476411,,False,,False,,False,BIO 9 C,True
+W10479650,SPCH 20 C,True,,False,,False,,False
+W10480937,,False,,False,,False,MATH 80 C,True
+W10490622,,False,ENGL 1A B,True,ENGL 1B B,True,,False
+W10515211,,False,ENGL 1A A,True,,False,,False
+W10517531,,False,,False,,False,MATH 90 A,True
+W10529896,,False,,False,PHIL 2 A,True,,False
+W10538157,,False,ENGL 1A A,True,,False,,False
+W77015879,,False,,False,,False,LERN 50 B,True
+W77021888,,False,,False,,False,PSYC 5 A,True
+W77030160,,False,,False,,False,MATH E1 P,False
+W77039151,,False,,False,,False,MATH 80 C,True
+W77053565,,False,ENGL 1A C,True,,False,MATH 100A B,True
+W99062993,,False,,False,ENGL 1B C,True,MATH 90 C,True
+W99107556,,False,ENGL 1A B,True,,False,,False
+W99139544,,False,MUS 6A C,True,,False,,False
+W99141901,,False,CDEV 108B A,True,,False,,False
+W99147891,,False,,False,,False,"HLTH 64 C,PSYC 5 C",True
+W99157633,,False,ENGL 1A B,True,PHIL 4 C,True,,False
+W99174346,,False,,False,"ENGL 1B A,IDST 17 A",True,PSYC 5 B,True
+W99176332,,False,,False,,False,PSYC 5 C,True
+W99241919,,False,,False,,False,BIO 9 A,True
+W99259430,,False,ENGL 1A C,True,ENGL 1B C,True,,False
+W99259861,,False,ENGL 1A C,True,,False,MATH 70 A,True
+W99260878,,False,,False,ENGL 1B A,True,,False
+W99262587,,False,,False,"ENGL 1C B,ET 108A B",True,HIST 21 B,True
+W99265031,SPCH 1A A,True,,False,,False,,False
+W99267906,SPCH 1A A,True,,False,,False,,False
+W99267974,,False,,False,ENGL 1B A,True,HLTH 25 A,True
+W99281459,SPCH 1A B,True,,False,,False,,False
+W99283581,,False,,False,ENGL 1B B,True,MATH 80 C,True
+W99288894,,False,,False,,False,"BIO 9 B,HLTH 25 B",True

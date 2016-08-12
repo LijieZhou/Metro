@@ -165,18 +165,33 @@ def main():
 
     csv_rows.sort()
 
+
     write_csv(args.outfile, [header_row] + csv_rows)
 
 
 def format_courses(course_tuples):
+    # Iterate course_tuples and join each tuple with " "
+    # map(func, iterable) is equivalent to map(f(x) for x in iterable)
+
     formatted_courses = map(" ".join, course_tuples)
+    
+    # join each formatted_course with ","
     return ",".join(formatted_courses)
 
 
 def is_complete(course_tuples):
+
     PASSING_GRADES = ["A", "B", "C"]
+
     # extract the grades from each course tuple
+    # operator.itemgetter constructs a callable that assumes iterable object (list, set, tuple) as input
+    # and fetches n-th element out of it
+    # def get_second_elem(iterable)
+    #     return iterable[1]
+
     grades = map(operator.itemgetter(1), course_tuples)
+    #any return true if any element of the iterable is true
+    # if iterable is empty, return false
     return any([grade in grades for grade in PASSING_GRADES])
 
 
