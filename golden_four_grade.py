@@ -98,10 +98,6 @@ def filter_duplicates(rows, sort_indices, filter_indices):
     return filtered_rows
 
 
-def extract_golden_four():
-    pass
-
-
 def initial_golden_four():
     return {'A1': set(), 'A2': set(), 'A3': set(), 'B4': set()}
 
