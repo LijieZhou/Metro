@@ -22,12 +22,13 @@ STEP 2:
 
 
 NOTES:
-    If there are no CSV files in the folder this will do nothing.
+    If there are no CSV files in the folder this will do nothing, but will
+    yell at you a bit about that.
     If there is more than one CSV file it will pick the first one it finds that
     doesn't have the same name as args.outfile (which is defaulted to
     "00-CCSF_Golden_Four.csv").
-    You may specify the name of the RST file and/or the name of the new file if
-    you run from terminal.
+    You may specify the name of the input file and/or the name of the output
+    file if you run from terminal.
 
 For running from terminal help:
     Run 'python golden_four.py -help'
